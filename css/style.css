@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(20, 23, 37);
+    color: white;
+}
+#myAudio{
+    display: none;
+}
+button{
+    border:1px solid white;
+    border-radius: 50px;
+}
+source{
+    background-color: red;
+}
